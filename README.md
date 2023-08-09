@@ -29,7 +29,7 @@
 
 ### :man_technologist: About Me :
 - :zap: Coding the Future, Byte by Byte.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail&logoColor=white)](mailto:robinsdeepak@gmail.com)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/mail-blue?style=flat&logo=gmail&logoColor=white)](mailto:mail@robinsdeepak.in)
 
 
 
